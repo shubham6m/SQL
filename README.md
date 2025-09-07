@@ -39,6 +39,7 @@ Feel free to fork the repository and contribute by adding more queries, exercise
 Happy learning! 📊🧑‍💻
 
 Let me know if you want me to:
+
 ✔ Add example datasets  
 ✔ Format it for specific SQL tools like MySQL or PostgreSQL  
 ✔ Provide instructions on how to execute each script step-by-step
